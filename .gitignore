@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Credentials & secrets
+.env
+credentials.json
+token.json
+token.pickle
+
+# Output (generated files)
+output/
+
+# Processed inbox
+demo_inbox/processed/
+
+# OS
+.DS_Store
+Thumbs.db
